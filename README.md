@@ -1,2 +1,2 @@
-# collab-projects
-This repo is made for pure collab of the club.
+# Learning Machine Learning
+This repo is made for pure practice and learning purposes.
